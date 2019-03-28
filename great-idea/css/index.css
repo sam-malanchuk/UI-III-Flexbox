@@ -114,6 +114,7 @@ h1.hero-text {
 h1.hero-text span {
 	display: block;
 	text-align: center;
+	line-height: 1em;
 }
 
 .hero-container {
