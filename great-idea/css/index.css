@@ -70,6 +70,7 @@ body {
 	margin: 0 auto;
 	padding: 0 100px;
 	font-family: "Segoe UI", sans-serif;
+	line-height: 1.2em;
 }
 
 header {
@@ -113,6 +114,7 @@ h1.hero-text {
 h1.hero-text span {
 	display: block;
 	text-align: center;
+	line-height: 1em;
 }
 
 .hero-container {
@@ -206,7 +208,7 @@ section.sections-2 {
 }
 
 .footer-sections section {
-	width: 400px;
+	width: 425px;
 }
 
 .services-info-img {
@@ -228,7 +230,7 @@ ul.footerList li {
 	text-decoration: none;
 	color: black;
 	background-color: white;
-	font-size: 10px;
+	font-size: 15px;
 	border: 1px solid black;
 	border-radius: 5px;
 	margin-top: 10px;
